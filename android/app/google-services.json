@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "291003584725",
+    "project_id": "kutumb-46160",
+    "storage_bucket": "kutumb-46160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291003584725:android:d5fa81b11f3557d160d25c",
+        "android_client_info": {
+          "package_name": "com.kutumb.meapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291003584725-9h9lb64mgks9bf7mtmosv10jt444ajet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARKc08XoRP_EmOKyeE7cc8vnMlizLoZgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291003584725-9h9lb64mgks9bf7mtmosv10jt444ajet.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291003584725-0irnvjh5dv58icvc8mm9i9ur02sm2990.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kutumb.myapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
